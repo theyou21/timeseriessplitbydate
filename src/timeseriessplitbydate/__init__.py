@@ -1,6 +1,6 @@
 """Public package interface for timeseriessplitbydate."""
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from .splitter import TimeSeriesSplitByDate
 from .synthetic import make_synthetic_time_series_dataset

@@ -32,9 +32,18 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
+  "mkdocs>=1.6",
+  "mkdocstrings[python]>=0.26",
   "pytest>=7.0",
   "ruff>=0.5.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/theyou21/timeseriessplitbydate"
+Source = "https://github.com/theyou21/timeseriessplitbydate"
+Issues = "https://github.com/theyou21/timeseriessplitbydate/issues"
+Documentation = "https://theyou21.github.io/timeseriessplitbydate/"
+Changelog = "https://github.com/theyou21/timeseriessplitbydate/blob/main/CHANGELOG.md"
 
 [tool.setuptools.dynamic]
 version = { attr = "timeseriessplitbydate.__version__" }
