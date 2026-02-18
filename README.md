@@ -3,7 +3,8 @@
 [![PyPI version](https://img.shields.io/pypi/v/timeseriessplitbydate.svg)](https://pypi.org/project/timeseriessplitbydate/)
 [![CI](https://github.com/theyou21/timeseriessplitbydate/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/theyou21/timeseriessplitbydate/actions/workflows/ci.yml)
 [![Python versions](https://img.shields.io/pypi/pyversions/timeseriessplitbydate.svg)](https://pypi.org/project/timeseriessplitbydate/)
-[![License](https://img.shields.io/github/license/theyou21/timeseriessplitbydate.svg)](https://github.com/theyou21/timeseriessplitbydate/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/timeseriessplitbydate.svg)](https://pypi.org/project/timeseriessplitbydate/)
+
 
 Date-aware cross-validation for machine learning on irregularly timestamped data.
 
