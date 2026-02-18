@@ -8,7 +8,7 @@ dynamic = ["version"]
 description = "Date-aware time series cross-validator for deterministic train/test splits."
 readme = "README.md"
 requires-python = ">=3.9"
-license = "MIT"
+license = { file = "LICENSE" }
 authors = [
   { name = "Zeyu Bai" }
 ]
@@ -16,6 +16,7 @@ keywords = ["time-series", "cross-validation", "machine-learning"]
 classifiers = [
   "Development Status :: 3 - Alpha",
   "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.9",
